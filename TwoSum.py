@@ -1,3 +1,8 @@
+#Description : Given an array of integers, return indices of the two numbers such that they add up to a specific target.
+
+
+
+
 class Solution {
     public int[] twoSum(int[] nums, int target) {
       int[] result=new int[2];
